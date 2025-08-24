@@ -1,0 +1,3 @@
+Create a Mastermind game with a client-server system to achieve interactive communication using sockets in such games. 
+The players must guess the correct numbers and put them in the correct order. 
+The server will announce the winning and losing players. The implementation is in Python, written in the TCP protocol format.
